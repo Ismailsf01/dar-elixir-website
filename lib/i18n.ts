@@ -161,6 +161,77 @@ export const translations = {
     topNotes: "Top Notes",
     middleNotes: "Middle Notes",
     baseNotes: "Base Notes",
+
+    // --- Services Page ---
+    // Hero Section
+    webDevelopmentServices: "Web Development Services",
+    servicesTitle: "High-Performance E-commerce Websites",
+    servicesSubtitle: "We build fast, secure, and easy-to-manage online stores for businesses in Morocco.",
+    getStarted: "Get Started",
+    viewPortfolio: "View Portfolio",
+
+    // What We Offer Section
+    whatWeOffer: "What We Offer",
+    whatWeOfferDesc: "A complete package designed to get your business online and selling, powered by the latest technology.",
+    starterPackageTitle: "Starter E-commerce Package",
+    starterPackagePrice: "Starting from 2000 MAD",
+    starterPackageDesc: "Our all-in-one solution includes everything you need to launch a successful online store.",
+    coreFeatures: "Core Features",
+    responsiveDesign: "Responsive Design",
+    productCatalog: "Product Catalog",
+    // shoppingCart: "Shopping Cart", // This might be a duplicate
+    paymentIntegration: "Payment Integration (COD)",
+    orderManagement: "Order Management System",
+    customerAccounts: "Customer Accounts (Future)",
+    additionalServices: "Additional Services",
+    seoOptimization: "SEO Optimization",
+    mobileOptimized: "Mobile-First Design",
+    securityFeatures: "Advanced Security",
+    analyticsSetup: "Analytics Setup",
+    socialIntegration: "Social Media Integration",
+    supportTraining: "Support & Training",
+    getQuote: "Get a Quote",
+
+    // Why Choose Us Section
+    whyChooseUs: "Why Choose Us?",
+    whyChooseUsDesc: "We build websites that are not just beautiful, but are powerful business tools.",
+    speedTitle: "Blazing Speed",
+    speedDesc: "Faster websites mean better user experience and higher search rankings.",
+    mobileFirst: "Mobile-First Approach",
+    securityTitle: "Rock-Solid Security",
+    securityDesc: "A modern, headless architecture protects you from common vulnerabilities.",
+    securePayments: "Secure Transactions",
+    dataProtection: "Data Protection",
+    easyManagementTitle: "Easy Management",
+    easyManagementDesc: "Update your products and content yourself through a simple, intuitive dashboard.",
+    analytics: "Visitor Analytics",
+    support: "Ongoing Support",
+
+    // Our Work Section
+    ourWork: "Our Work",
+    ourWorkDesc: "A case study of a complete, multilingual e-commerce store built on our platform.",
+    darElixirTitle: "Dar Elixir Perfumes",
+    darElixirDesc: "A luxury perfume decanting store featuring a dynamic product catalog, multi-language support, and a complete COD order system.",
+    multilingualSupport: "Multilingual Support",
+    luxuryDesign: "Luxury Custom Design",
+    fullEcommerce: "Full E-commerce Functionality",
+    viewLiveWebsite: "View Live Website",
+
+    // Contact Form Section
+    getInTouchTitle: "Ready to Start Your Project?",
+    servicesGetInTouchDesc: "Let's build something amazing together. Fill out the form below to get started.",
+    contactFormTitle: "Get a Free Quote",
+    name: "Name",
+    namePlaceholder: "Your full name",
+    // email: "Email", // This might be a duplicate
+    emailPlaceholder: "your.email@example.com",
+    projectType: "Project Type",
+    projectTypePlaceholder: "e.g., E-commerce Store, Portfolio",
+    // message: "Message", // This might be a duplicate
+    messagePlaceholder: "Tell us a little about your project...",
+    getFreeQuote: "Send Request",
+    responseTime: "We typically respond within 24 hours.",
+    services: "Services",
   },
   fr: {
     // Navigation
@@ -319,6 +390,74 @@ export const translations = {
     topNotes: "Notes de Tête",
     middleNotes: "Notes de Cœur",
     baseNotes: "Notes de Fond",
+
+    // --- Services Page ---
+    // Hero Section
+    webDevelopmentServices: "Services de Développement Web",
+    servicesTitle: "Sites E-commerce Haute Performance",
+    servicesSubtitle: "Nous créons des boutiques en ligne rapides, sécurisées et faciles à gérer pour les entreprises au Maroc.",
+    getStarted: "Commencer",
+    viewPortfolio: "Voir le Portfolio",
+
+    // What We Offer Section
+    whatWeOffer: "Ce que nous offrons",
+    whatWeOfferDesc: "Une solution complète conçue pour mettre votre entreprise en ligne, propulsée par les dernières technologies.",
+    starterPackageTitle: "Forfait E-commerce de Démarrage",
+    starterPackagePrice: "À partir de 2000 MAD",
+    starterPackageDesc: "Notre solution tout-en-un inclut tout ce dont vous avez besoin pour lancer une boutique en ligne réussie.",
+    coreFeatures: "Fonctionnalités Clés",
+    responsiveDesign: "Design Réactif",
+    productCatalog: "Catalogue de Produits",
+    paymentIntegration: "Intégration Paiement (COD)",
+    orderManagement: "Gestion des Commandes",
+    customerAccounts: "Comptes Clients (Futur)",
+    additionalServices: "Services Additionnels",
+    seoOptimization: "Optimisation SEO",
+    mobileOptimized: "Conception Mobile-First",
+    securityFeatures: "Sécurité Avancée",
+    analyticsSetup: "Configuration des Analyses",
+    socialIntegration: "Intégration des Réseaux Sociaux",
+    supportTraining: "Support & Formation",
+    getQuote: "Obtenir un Devis",
+
+    // Why Choose Us Section
+    whyChooseUs: "Pourquoi nous choisir ?",
+    whyChooseUsDesc: "Nous construisons des sites web qui sont non seulement beaux, mais de puissants outils commerciaux.",
+    speedTitle: "Vitesse Éclair",
+    speedDesc: "Des sites plus rapides signifient une meilleure expérience utilisateur et un meilleur classement dans les recherches.",
+    mobileFirst: "Approche Mobile-First",
+    securityTitle: "Sécurité Renforcée",
+    securityDesc: "Une architecture moderne et 'headless' vous protège des vulnérabilités courantes.",
+    securePayments: "Transactions Sécurisées",
+    dataProtection: "Protection des Données",
+    easyManagementTitle: "Gestion Facile",
+    easyManagementDesc: "Mettez à jour vos produits et contenus vous-même via un tableau de bord simple et intuitif.",
+    analytics: "Analyse des Visiteurs",
+    support: "Support Continu",
+
+    // Our Work Section
+    ourWork: "Notre Travail",
+    ourWorkDesc: "Une étude de cas d'une boutique e-commerce multilingue complète, construite sur notre plateforme.",
+    darElixirTitle: "Parfums Dar Elixir",
+    darElixirDesc: "Une boutique de décantage de parfums de luxe avec un catalogue de produits dynamique, un support multilingue et un système de commande COD complet.",
+    multilingualSupport: "Support Multilingue",
+    luxuryDesign: "Design de Luxe Personnalisé",
+    fullEcommerce: "Fonctionnalité E-commerce Complète",
+    viewLiveWebsite: "Voir le Site en Direct",
+
+    // Contact Form Section
+    getInTouchTitle: "Prêt à démarrer votre projet ?",
+    servicesGetInTouchDesc: "Construisons quelque chose d'incroyable ensemble. Remplissez le formulaire ci-dessous pour commencer.",
+    contactFormTitle: "Obtenez un Devis Gratuit",
+    name: "Nom",
+    namePlaceholder: "Votre nom complet",
+    emailPlaceholder: "votre.email@example.com",
+    projectType: "Type de Projet",
+    projectTypePlaceholder: "ex: Boutique E-commerce, Portfolio",
+    messagePlaceholder: "Parlez-nous un peu de votre projet...",
+    getFreeQuote: "Envoyer la Demande",
+    responseTime: "Nous répondons généralement sous 24 heures.",
+    services: "Services",
   },
   ar: {
     // Navigation
@@ -472,6 +611,74 @@ export const translations = {
     topNotes: "النوتات العلوية",
     middleNotes: "النوتات الوسطى",
     baseNotes: "النوتات القاعدية",
+
+    // --- Services Page ---
+    // Hero Section
+    webDevelopmentServices: "خدمات تطوير الويب",
+    servicesTitle: "مواقع تجارة إلكترونية عالية الأداء",
+    servicesSubtitle: "نقوم ببناء متاجر إلكترونية سريعة وآمنة وسهلة الإدارة للشركات في المغرب.",
+    getStarted: "ابدأ الآن",
+    viewPortfolio: "شاهد أعمالنا",
+
+    // What We Offer Section
+    whatWeOffer: "ماذا نقدم",
+    whatWeOfferDesc: "باقة متكاملة مصممة لإطلاق أعمالك على الإنترنت، مدعومة بأحدث التقنيات.",
+    starterPackageTitle: "باقة التجارة الإلكترونية للبدء",
+    starterPackagePrice: "ابتداءً من 2000 درهم",
+    starterPackageDesc: "حلنا المتكامل يشمل كل ما تحتاجه لإطلاق متجر إلكتروني ناجح.",
+    coreFeatures: "الميزات الأساسية",
+    responsiveDesign: "تصميم متجاوب",
+    productCatalog: "كتالوج المنتجات",
+    paymentIntegration: "الدفع عند الاستلام",
+    orderManagement: "نظام إدارة الطلبات",
+    customerAccounts: "حسابات العملاء (مستقبلاً)",
+    additionalServices: "خدمات إضافية",
+    seoOptimization: "تحسين محركات البحث (SEO)",
+    mobileOptimized: "تصميم يركز على الموبايل",
+    securityFeatures: "ميزات أمان متقدمة",
+    analyticsSetup: "إعداد التحليلات",
+    socialIntegration: "ربط وسائل التواصل الاجتماعي",
+    supportTraining: "دعم وتدريب",
+    getQuote: "اطلب عرض سعر",
+
+    // Why Choose Us Section
+    whyChooseUs: "لماذا تختارنا؟",
+    whyChooseUsDesc: "نحن نبني مواقع ليست جميلة فحسب، بل هي أدوات عمل قوية.",
+    speedTitle: "سرعة فائقة",
+    speedDesc: "المواقع الأسرع تعني تجربة مستخدم أفضل وتصنيفات أعلى في محركات البحث.",
+    mobileFirst: "أولوية للموبايل",
+    securityTitle: "أمان صلب",
+    securityDesc: "تحميك بنيتنا الحديثة (headless) من الثغرات الأمنية الشائعة.",
+    securePayments: "معاملات آمنة",
+    dataProtection: "حماية البيانات",
+    easyManagementTitle: "إدارة سهلة",
+    easyManagementDesc: "حدّث منتجاتك ومحتواك بنفسك عبر لوحة تحكم بسيطة وبديهية.",
+    analytics: "تحليلات الزوار",
+    support: "دعم مستمر",
+
+    // Our Work Section
+    ourWork: "أعمالنا",
+    ourWorkDesc: "دراسة حالة لمتجر إلكتروني كامل متعدد اللغات، تم بناؤه على منصتنا.",
+    darElixirTitle: "عطور دار الإكسير",
+    darElixirDesc: "متجر فاخر لتقسيم العطور يتميز بكتالوج منتجات ديناميكي، ودعم متعدد اللغات، ونظام طلبات دفع عند الاستلام متكامل.",
+    multilingualSupport: "دعم متعدد اللغات",
+    luxuryDesign: "تصميم فاخر ومخصص",
+    fullEcommerce: "وظائف تجارة إلكترونية كاملة",
+    viewLiveWebsite: "شاهد الموقع مباشرة",
+
+    // Contact Form Section
+    getInTouchTitle: "هل أنت مستعد لبدء مشروعك؟",
+    servicesGetInTouchDesc: "دعنا نبني شيئًا مذهلاً معًا. املأ النموذج أدناه للبدء.",
+    contactFormTitle: "اطلب عرض سعر مجاني",
+    name: "الاسم",
+    namePlaceholder: "اسمك الكامل",
+    emailPlaceholder: "email@example.com",
+    projectType: "نوع المشروع",
+    projectTypePlaceholder: "مثال: متجر إلكتروني، معرض أعمال",
+    messagePlaceholder: "أخبرنا قليلاً عن مشروعك...",
+    getFreeQuote: "إرسال الطلب",
+    responseTime: "عادة ما نرد في غضون 24 ساعة.",
+    services: "خدماتنا",
   },
 } as const
 
